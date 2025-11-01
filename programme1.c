@@ -108,7 +108,7 @@ int main(void) {
     } else {
         printf("Overall: It's a draw.\n");
     }
-
+// hello  everybody I want to reveal my gf in this code ,her name is sai shree
     printf("Thanks for playing!\n");
     return 0;
-}
+ }
